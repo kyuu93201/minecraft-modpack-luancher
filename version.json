@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
+  "mc_version": "26.2",
+  "loader": "fabric",
   "download_url": "https://github.com/kyuu93201/minecraft-modpack-luancher/releases/download/1.0.0/minecraft.zip"
 }
